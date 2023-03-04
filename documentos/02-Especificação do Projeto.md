@@ -17,17 +17,12 @@ Adalberto - 22 ano
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-| `PERSONA` | `FUNCIONALIDADE`                                                                                                                | `MOTIVO/VALOR`                                                                  |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Khaio     | Como usuário, quero adicionar uma nova tarefa em minha lista de afazeres, para que eu possa marcá-la como concluída mais tarde. | Tirar a minha lista de tarefas da cabeça e colocar na tela de forma organizada. |
-
-| Khaio     | Como usuário, quero marcar uma tarefa como concluída, para que eu possa acompanhar meu progresso e saber quantas tarefas ainda faltam.| Ver de forma rápida as tarefas que já foram concluídas|
-
-
-| Adalberto  | Como usuário, editar uma tarefa da minha lista, para que eu corrija a ortografia.| Corrigir algum erro ortográfico ou até mesmo uma tarefa que não ficou clara do que deve ser feito|
-
-| Adalberto  | Como usuário, quero excluir uma tarefa da minha lista, para que eu possa remover tarefas que não são mais relevantes.| Excluir uma tarefa que não é mais relevante|
-
+| PERSONA | FUNCIONALIDADE | MOTIVO/VALOR |
+| ------- | -------------- | ------------- |
+| Khaio | Como usuário, quero adicionar uma nova tarefa em minha lista de afazeres, para que eu possa marcá-la como concluída mais tarde. | Tirar a minha lista de tarefas da cabeça e colocar na tela de forma organizada. |
+| Khaio | Como usuário, quero marcar uma tarefa como concluída, para que eu possa acompanhar meu progresso e saber quantas tarefas ainda faltam. | Ver de forma rápida as tarefas que já foram concluídas. |
+| Adalberto | Como usuário, quero editar uma tarefa da minha lista, para que eu corrija a ortografia. | Corrigir algum erro ortográfico ou até mesmo uma tarefa que não ficou clara do que deve ser feito. |
+| Adalberto | Como usuário, quero excluir uma tarefa da minha lista, para que eu possa remover tarefas que não são mais relevantes. | Excluir uma tarefa que não é mais relevante. |
 
 ## Requisitos
 
