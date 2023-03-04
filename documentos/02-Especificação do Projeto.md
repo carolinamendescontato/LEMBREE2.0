@@ -40,8 +40,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-001 | Criar uma nova tarefa. | ALTA       |
 | RF-002 | Concluir uma tarefa.   | MÉDIO      |
 | RF-003 | Editar uma tarefa.     | MÉDIO      |
-| RF-004 | Excluir uma tarefa.    |
-| BAIXO  |
+| RF-004 | Excluir uma tarefa.    | BAIXO |
+
 
 | RF-005 | Visualizar todas as tarefas em uma lista.                                    | ALTA       |
 
