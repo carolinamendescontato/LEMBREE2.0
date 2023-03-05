@@ -23,7 +23,7 @@ O projeto visa a criação de um aplicação movel TO-DO LIST.
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="documentos/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 
 </ol>
 ***
