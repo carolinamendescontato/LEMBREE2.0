@@ -64,7 +64,7 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 # COLOCA A IMAGEM AQUI
 
 
-<img src="/src/IMG/Capturar">
+<img src="/src/IMG/Capturar.PNG">
 
 ## Gerenciamento de Projeto
 Utilizando o PMBoK padrão todo o projeto será gerenciado utilizando planilhas integradas que possibilitarão a visualização da evolução dos trabalhos, bem como a possibilidade de melhoria prática a cada implementação. Para tal, todas as informações referentes ao cronograma, previsão de custos, recursos e equipe envolvidas, atividades ocupadas, reuniões, produção de documentos, entre outros, serão devidamente registradas com o objetivo de construir base documental sólida a fim de que o desenvolvimento do projeto transcorra obedecendo padrões e normas de excelência e qualidade.
@@ -77,7 +77,7 @@ A matriz deve contemplar todos os elementos relevantes que fazem parte do sistem
 # GERENCIAMENTO DE TEMPO
 # COLOCA A IMAGEM AQUI
 
-<img src="../src/IMG/gestaoTempo">
+<img src="../src/IMG/gestaoTempo.jpeg">
 
 ## Gerenciamento de Equipe
 A equipe cumprirá suas tarefas de acordo com as habilidades e características subjetivas de cada membro, a fim de que cada um contribua e produza o melhor trabalho a ser incorporado ao projeto e consequentemente ao produto final. O gerenciamento das tarefas será registrado para que a produtividade e a qualidade sejam mantidas durante todo o desenvolvimento do projeto.
