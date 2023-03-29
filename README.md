@@ -22,14 +22,6 @@ O projeto visa a criação de um aplicação movel TO-DO LIST.
 # Documentação
 
 
-| Funcionalidade | Descrição | Teste |
-| --- | --- | --- |
-| Adição de tarefa | Verificar se é possível adicionar uma nova tarefa à lista existente | Adicionar uma nova tarefa e verificar se ela aparece corretamente na lista |
-| Edição de tarefa | Verificar se é possível editar uma tarefa existente na lista | Editar uma tarefa e verificar se ela é atualizada corretamente na lista |
-| Exclusão de tarefa | Verificar se é possível excluir uma tarefa existente na lista | Excluir uma tarefa e verificar se ela não aparece mais na lista |
-| Marcação de tarefa como concluída | Verificar se é possível marcar uma tarefa como concluída na lista | Marcar uma tarefa como concluída e verificar se ela aparece corretamente na lista |
-| Filtro de tarefas | Verificar se é possível filtrar as tarefas por status na lista | Selecionar um status de filtro e verificar se apenas as tarefas correspondentes aparecem na lista |
-
 
 
 <ol>
